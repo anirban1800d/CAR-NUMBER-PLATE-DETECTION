@@ -13,9 +13,6 @@ This project implements an automatic car number plate detection system using dee
 
 - Python
 - OpenCV
-- TensorFlow / PyTorch (choose whichever you're using)
-- NumPy
-- Matplotlib
 
 ## 📁 Project Structure
 
